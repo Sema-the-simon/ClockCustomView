@@ -1,4 +1,5 @@
 Сustom view в виде стрелочных часов с часовой, минутной и секундной стрелками. Примерный дизайн:
+
 ![image](https://github.com/Sema-the-simon/ClockCustomView/assets/70843200/3897fa59-81c7-401f-ad73-b7c91749b25c)
 
 Custom view Clock:
