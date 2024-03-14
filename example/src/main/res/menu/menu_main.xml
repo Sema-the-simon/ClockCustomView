@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstExampleFragment"
+        android:icon="@drawable/number_1"
+        android:title="@string/fullscreen_name" />
+    <item
+        android:id="@+id/secondExampleFragment"
+        android:icon="@drawable/number_2"
+        android:title="@string/usage_name" />
+    <item
+        android:id="@+id/thirdExampleFragment"
+        android:icon="@drawable/number_3"
+        android:title="@string/colors_name" />
+</menu>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/firstExampleFragment"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/firstExampleFragment"
+        android:name="com.example.clockcustomview.FullScreenFragment"
+        android:label="@string/fullscreen_clock_fragment_title"
+        tools:layout="@layout/fragment_full_screen"/>
+
+    <fragment
+        android:id="@+id/secondExampleFragment"
+        android:name="com.example.clockcustomview.UsageExampleFragment"
+        android:label="@string/clock_usage_fragment_title"
+        tools:layout="@layout/fragment_usage_example"/>
+
+    <fragment
+        android:id="@+id/thirdExampleFragment"
+        android:name="com.example.clockcustomview.ColorsExampleFragment"
+        android:label="@string/different_colors_fragment_title"
+        tools:layout="@layout/fragment_colors_example"/>
+
+</navigation>

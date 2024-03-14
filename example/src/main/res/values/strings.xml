@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClockCustomView</string>
+    <string name="clock">Часы</string>
+    <string name="first_example">Первый пример</string>
+    <string name="second_example">Второй пример</string>
+    <string name="third_example">Третий пример</string>
+    <string name="fullscreen_name">На полный экран</string>
+    <string name="usage_name">Использование в разметке</string>
+    <string name="colors_name">Разные цвета</string>
+    <string name="fullscreen_clock_fragment_title">Часы на полный экран</string>
+    <string name="clock_usage_fragment_title">Использовнаие в разметке</string>
+    <string name="different_colors_fragment_title">Различная расцветка</string>
+    <string name="analog_clock_title">Считывание времени на аналоговых часах</string>
+    <string name="analog_clock_text">У аналоговых часов есть стрелки, показывающие время. Одна для часов короткая и толстая. Одна для минут длинная и тонкая. А иногда и секундная стрелка, которая длинная и очень тонкая, это явно секундная стрелка, потому что она вращается в 60 раз быстрее минутной и в 720 раз быстрее часовой. На некоторых аналоговых часах нет цифр; цифры все равно можно определить, потому что ремешок всегда находится в положении 12 и 6. Часто отмечается только положение \"12 часов\" или только положения 12, 3, 6 и 9.</string>
+    <string name="change_clock_color_btn_text">Случайный цвет часов</string>
+</resources>
